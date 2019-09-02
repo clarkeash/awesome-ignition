@@ -27,3 +27,4 @@
 * https://github.com/facade/ignition-tinker-tab
 * https://github.com/facade/ignition-code-editor
 * https://github.com/facade/ignition-self-diagnosis
+* https://github.com/Astrotomic/ignition-stackoverflow
