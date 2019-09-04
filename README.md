@@ -12,6 +12,9 @@
 * [Marcels Blog](https://marcelpociot.de/blog/customizing-ignition-with-custom-solutions)
 * [GitHub Repo](https://github.com/facade/ignition)
 
+## Videos
+
+* https://laracasts.com/series/whats-new-in-laravel-6/episodes/2
 
 ## Blogs
 
