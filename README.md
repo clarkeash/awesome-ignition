@@ -17,6 +17,7 @@
 
 * https://laravel-news.com/ignition
 * http://laravel-school.com/posts/ignition-a-beautiful-error-page-for-laravel-apps-54
+* https://www.magutti.com/blog/laravel-6-ignition-the-new-error-page
 
 
 
